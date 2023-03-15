@@ -1,0 +1,6 @@
+age | gender | smoker |  region   | charges 
+----+--------+--------+-----------+---------
+ 23 | male   | no     | northwest | 2400.00
+ 42 | female | no     | southeast | 3800.00
+ 57 | female | yes    | northeast | 5200.00
+ 35 | male   | no     | southwest | 2900.00
