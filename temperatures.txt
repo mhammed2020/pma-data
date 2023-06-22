@@ -1,0 +1,21 @@
+Temperature Readings
+
+Date: 2023-06-21
+
+Location: City A
+
+12:00 PM: 25.5°C
+1:00 PM: 27.3°C
+2:00 PM: 29.1°C
+3:00 PM: 30.2°C
+4:00 PM: 28.9°C
+5:00 PM: 26.7°C
+
+Location: City B
+
+12:00 PM: 28.7°C
+1:00 PM: 29.8°C
+2:00 PM: 31.5°C
+3:00 PM: 32.7°C
+4:00 PM: 31.2°C
+5:00 PM: 29.4°C
